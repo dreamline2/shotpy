@@ -1,0 +1,4 @@
+shotpy
+======
+
+auto screenshot
